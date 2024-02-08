@@ -11,7 +11,7 @@ An extension that integrates a download button for [EYNY Video][] site.
 
 ## ⚜️ License
 
-browser-statistic is distributed under the terms of the MIT license.
+eyny-video-downloader is distributed under the terms of the MIT license.
 
 See [LICENSE](./LICENSE) for details.
 
