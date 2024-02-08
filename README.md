@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/dcojmbnboabakbjkdghaakedellfjjbh?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/browser-statistic/emdbkfcpehdgjophcfbodcfnfmlldlfh)
 
 # eyny-video-downloader
 > Download video from Eyny Video
