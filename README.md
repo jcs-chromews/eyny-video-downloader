@@ -7,10 +7,15 @@
 <img src="./etc/screen.png" />
 </p>
 
-Extension that adds a download button for [EYNY Video](https://video.eyny.com/video) site.
+An extension that integrates a download button for [EYNY Video][] site.
 
 ## ⚜️ License
 
 browser-statistic is distributed under the terms of the MIT license.
 
 See [LICENSE](./LICENSE) for details.
+
+
+<!-- Links -->
+
+[EYNY Video]: https://video.eyny.com/video
