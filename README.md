@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/tag/jcs-chromews/eyny-video-downloader.svg?label=release&logo=github)](https://github.com/jcs-chromews/eyny-video-downloader/releases/latest)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/dcojmbnboabakbjkdghaakedellfjjbh?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/browser-statistic/emdbkfcpehdgjophcfbodcfnfmlldlfh)
 
 # eyny-video-downloader
