@@ -1,6 +1,6 @@
 {
     "name": "Eyny Video Downloader",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Download video from Eyny Video",
     "manifest_version": 3,
     "author": "Jen-Chieh Shen",
