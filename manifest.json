@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "author": "Jen-Chieh Shen",
     "content_scripts": [{
-        "matches": ["*://www.eyny.com/watch?*"],
+        "matches": ["*://*.eyny.com/*watch?*"],
         "js": ["script.js"],
         "css": ["style.css"]
     }],
